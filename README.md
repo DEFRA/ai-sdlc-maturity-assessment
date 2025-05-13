@@ -1,1 +1,4 @@
-# ai-sdlc-maturity-assessmentai-sdlc-maturity-assessment
+# AI SDLC Maturity Assessment
+
+This is temporary placeholder. 
+

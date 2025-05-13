@@ -1,0 +1,43 @@
+theme: jekyll-theme-minimal
+title: Defra AI SDLC Maturity Assessment Framework
+description: The AI-Powered SDLC: A Comprehensive Technical and Cultural Maturity Assessment Framework
+baseurl: '/ai-sdlc-maturity-assessment-framework'
+logo: /assets/images/defra-logo.svg
+version: 2.0.3
+css_version: 2.0.3
+
+# Build settings/Users/benwilkes/GitHub/ai-sdlc-tool-guidance/.cursor
+source: .
+sass:
+  style: compressed
+  sass_dir: _sass
+  load_paths:
+    - _sass
+    - node_modules
+
+# Additional settings
+markdown: kramdown
+show_downloads: false
+google_analytics: # Add your Google Analytics tracking ID here if needed
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Include files that are normally excluded
+include:
+  - CONTRIBUTING.md
+
+# Exclude files from processing
+exclude:
+  - .cursor/
+  - .obsidian/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - .gitignore
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - .DS_Store
+  - prompts/
