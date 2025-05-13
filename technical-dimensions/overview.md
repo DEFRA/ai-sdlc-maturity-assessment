@@ -1,0 +1,3 @@
+## Technical Dimensions of AI-SDLC Maturity
+
+We've identified 12 key technical areas and 5 cultural dimensions that the framework will initially evaluate, though this number may evolve as we refine the approach. For each area, we've drafted sample assessment questions to illustrate the kind of evaluation we're aiming for. As we begin implementing the framework and gather feedback, we expect to iterate on both the categories and the questions. This early version is meant to provide a starting point and a sense of direction, along with some key metrics we believe will be important to track in order to answer the questions effectively.
