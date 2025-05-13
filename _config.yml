@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Defra AI SDLC Maturity Assessment Framework
-description: The AI-Powered SDLC: A Comprehensive Technical and Cultural Maturity Assessment Framework
+description: The AI-Powered SDLC - A Comprehensive Technical and Cultural Maturity Assessment Framework
 baseurl: '/ai-sdlc-maturity-assessment-framework'
 logo: /assets/images/defra-logo.svg
 version: 2.0.3
