@@ -8,7 +8,7 @@ We talked a lot about how we could measure AI maturity, and we looked at some of
 
 ## Table of Contents
 
-| Section | Description |
+| Introduction |  |
 |---------|-------------|
 | [Why Another Maturity Model?](/introduction/why-another-maturity-model.md) | Rationale for creating a new maturity model |
 | [Framework Overview](/introduction/ai-sdlc-maturity-assessment-framework.md) | The structure and methodology of our assessment framework |
