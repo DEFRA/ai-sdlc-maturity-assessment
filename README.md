@@ -2,9 +2,7 @@
 
 In today's software development landscape, AI isn't just a feature we ship—it's becoming central to how we build, test, and deliver software. As organisations race to leverage AI's potential across the software development lifecycle (SDLC), a critical question emerges: "How do we measure maturity in AI adoption for development teams?"
 
-I'm beginning to explore this question further, and have spent some time discussing it with Ryan Siikorsky, co-founder of Equal Experts, who was so influential in helping us develop the Defra AI SDLC Playbook—it continues to shape how we think about and approach AI delivery in practice.
-
-We talked a lot about how we could measure AI maturity, and we looked at some of the 15-year-old Agile Maturity models. It made me think: Do we need an AI in the SDLC Maturity Assessment Framework to help organisations benchmark their current state and chart a path forward?
+We've thought a lot about how we could measure AI maturity, and we looked at some of the 15-year-old Agile Maturity models. It made me think: Do we need an AI in the SDLC Maturity Assessment Framework to help organisations benchmark their current state and chart a path forward?
 
 ## Table of Contents
 
